@@ -15,8 +15,8 @@ El núcleo del sistema implementa el patrón de diseño **Chain of Responsibilit
 | Nombre Completo | Usuario GitHub | Rol |
 |-----------------|----------------|-----|
 | Bruno Martins | [@brunomartins27](https://github.com/brunomartins27) | Developer |
-| Marcus Mitidiere | [@Usuario](https://github.com/Usuario) | Developer |
-| Ariadna Sofia | [@Usuario](https://github.com/Usuario) | Developer |
+| Marcus Mitidiere | [@Uruk707](https://github.com/Uruk707) | Developer |
+| Ariadna Sofia | [@AriadnaHiga](https://github.com/AriadnaHiga) | Developer |
 
 
 ---
