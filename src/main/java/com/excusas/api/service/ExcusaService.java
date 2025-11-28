@@ -39,6 +39,12 @@ public class ExcusaService {
 
     @Autowired private NotificationService notificationService;
 
+    /**
+     * Registra una nueva excusa y hace el proceso de avaliación.
+     * @param dto Datos de excusa recebidos de API.
+     * @return LA excusa guarda el estado atuaclizado.
+     */
+
     @Transactional
     public Excusa registrarExcusa(ExcusaRequestDTO dto) {
         Empleado emp = empRepo.findByLegajo(dto.getLegajoEmpleado())
