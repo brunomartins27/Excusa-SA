@@ -123,4 +123,9 @@ Los diagramas UML requeridos (Clases, Secuencia, Arquitectura y DER) se encuentr
 
 [👉 **Ir a la Wiki del Proyecto**](../../wiki)
 
+## 🔮 Próximos Passos (Roadmap)
+- [ ] Implementar autenticação com Spring Security (JWT).
+- [ ] Criar interface Frontend em React.
+- [ ] Adicionar containerização com Docker.
+
 ---
